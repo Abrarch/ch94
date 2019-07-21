@@ -3,8 +3,7 @@
 ```
 $ pkg install php
 $ pkg install git
-$ git clone https://github.com/IndonesianSecurity/kkktp
-$ cd kkktp
+$ git clone https://github.com/Abrarch/ch94.git cd kkktp
 $ ls
 $ php kkktp.php
 ```
